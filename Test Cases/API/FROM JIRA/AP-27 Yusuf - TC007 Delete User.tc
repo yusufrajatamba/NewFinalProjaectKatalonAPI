@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Yusuf - TC007 Delete User
+Description: </description>
+   <name>AP-27 Yusuf - TC007 Delete User</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10030&quot;:[],&quot;customfield_10025&quot;:&quot;10000_*:*_1_*:*_14870_*|*_10001_*:*_1_*:*_0&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i000bb:&quot;},&quot;status&quot;:{&quot;id&quot;:10001,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://timbelajar2.atlassian.net/&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/status/10001&quot;,&quot;name&quot;:&quot;Done&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;AP&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;API Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Yusuf - TC007 Delete User&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;yusufrajatamba@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Yusuf Raja Tamba&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/user?accountId\u003d70121%3Ae022cd69-2a7f-4c18-be55-5b48cf1f6bd2&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;yusufrajatamba@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Yusuf Raja Tamba&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/user?accountId\u003d70121%3Ae022cd69-2a7f-4c18-be55-5b48cf1f6bd2&quot;},&quot;resolution&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;Work has been completed on this issue.&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/resolution/10000&quot;,&quot;name&quot;:&quot;Done&quot;},&quot;priority&quot;:{&quot;id&quot;:2,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/priority/2&quot;,&quot;name&quot;:&quot;High&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/issue/AP-27/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/issue/10053&quot;,&quot;key&quot;:&quot;AP-27&quot;,&quot;id&quot;:10053}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>97bc76b7-c8a3-4f04-ae5e-190894896395</testCaseGuid>
+</TestCaseEntity>
